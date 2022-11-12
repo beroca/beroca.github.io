@@ -2,7 +2,7 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="https://github.com/beroca/resources/blob/1c78663fd9f1201e665379fca53239c3b0975e74/image/about-629x709.png" width="120"></td>
+      <td><img src="./images/about-629x709.png" width="120"></td>
       <td><pre style="font-family: 'Ubuntu Mono', 'Roboto Mono', 'Menlo', 'Monaco', 'Lucida Console', monospace;">
 Address:      Munich, Germany
 LinkedIn:     <a href="https://www.linkedin.com/in/beroca" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/beroca</a>
