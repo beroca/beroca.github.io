@@ -19,7 +19,7 @@ Nationality:  Spain</pre>
 * Ensured compliance with the quality and security requirements of the organization across every microservice of the team (**WhiteSource/Mend, Fortify, SonarQube, CheckMarx**).
 * Contributed to the Continuous Integration and Continuous Delivery (CI/CD) pipeline to build and release multiple microservices and applications (**Jenkins, Docker, Kubernetes, AWS**).
 * Provided monitoring and on-call support of 10-15 microservices, following the approach "you build it, you run it" (**Kibana, Grafana, Splunk On-Call/VictorOps**).
-* Acted as part-time Scrum Coach rotating the role periodically with the rest of team members.
+* Acted as part-time Scrum Coach rotating the role periodically inside the development team.
 * Obtained the certifications of **PSM-I (Professional Scrum Master)** and **ITIL4 Foundation** Certificate in IT Service Management (<a href="https://purl.org/beroca/certificates" target="_blank" rel="noopener noreferrer">https://purl.org/beroca/certificates</a>)
 
 
@@ -38,20 +38,18 @@ Nationality:  Spain</pre>
 
 
 **Senior Software Engineer. Motorola Solutions, Plantation, Florida, U.S.A.** Aug 1999 – Dec 2005
-* Developed the low-level software testing API for the Motorola CN620 Windows CE mobile phone and supported the accelerated life testing (ALT) and manufacturing teams along the development process (**C, Bash, C++**, Windows CE).
+* Developed the low-level software testing API for the Motorola CN620 Windows CE mobile phone and supported API clients along the product development process (**C, Bash, C++**, Windows CE).
 * Developed 2 low-level software drivers (UART RS-232, and watchdog) built into the Motorola radio products XTS2500, XTS5000, Astro Spectra Plus (**C, Bash**)
 * Implemented a set of CLI tools to streamline the software snapshot builds of Motorola radio products consolidating code changes from 4 different teams (**C, Perl, Bash**, ClearCase version control).
 
 
 **Internship. Hewlett-Packard (HP), Granada, Spain.** Aug 1994 – May 1996\
-* Customized modules of HP's Hospital Information System (HP HIS) suite for a local hospital (Transtools/Base100 **Multibase, SQL**).
-
+* Customized modules of HP's Hospital Information System (HP HIS) software for a local hospital (Transtools/Base100 **Multibase, SQL**).
 
 **EDUCATION**  
-**Ph.D. in Computer Science. University of Southampton.** Southampton, U.K. 2011.\
+**Ph.D. in Computer Science. University of Southampton.** Southampton, U.K. 2012.\
 Thesis: Towards Ontology Design Patterns to Model Multiple Classification Criteria of Domain Concepts for the Semantic Web (<a href="https://purl.org/beroca/phd/thesis" target="_blank" rel="noopener noreferrer">https://purl.org/beroca/phd/thesis</a>). \
 **M.Sc. in Computer Engineering. University of Miami.** Florida, U.S.A. 1999.\
 **B.Sc. in Computer Science. University of Granada.** Granada, Spain. 1997.
 
-**Languages**\
-Spanish (native speaker), English (proficient), German (intermediate).
+**Languages:** Spanish (native speaker), English (proficient), German (intermediate).
