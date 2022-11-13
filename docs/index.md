@@ -18,7 +18,7 @@ Nationality:  Spain</pre>
 * Contributed to the full software development life cycle of multiple backend microservices (**Java, Spring Boot, SQL databases, Kafka, RESTful APIs, Flink, Druid**).
 * Ensured compliance with the quality and security requirements of the organization across every microservice of the team (**WhiteSource/Mend, Fortify, SonarQube, CheckMarx**).
 * Contributed to the Continuous Integration and Continuous Delivery (CI/CD) pipeline to build and release multiple microservices and applications (**Jenkins, Docker, Kubernetes, AWS**).
-* Provided monitoring and on-call support of 10-15 microservices, following the approach "you build it, you run it" (**Kibana, Grafana, Splunk On-Call/VictorOps**).
+* Provided monitoring and on-call support of 10-15 microservices, following the approach *"you build it, you run it"* (**Kibana, Grafana, Splunk On-Call/VictorOps**).
 * Acted as part-time Scrum Coach rotating the role periodically inside the development team.
 * Obtained the certifications of **PSM-I (Professional Scrum Master)** and **ITIL4 Foundation** Certificate in IT Service Management (<a href="https://purl.org/beroca/certificates" target="_blank" rel="noopener noreferrer">https://purl.org/beroca/certificates</a>)
 
