@@ -14,14 +14,19 @@ Nationality:  Spain</pre>
 </table>
 
 **WORK EXPERIENCE**\
-**Senior Software Engineer. SAP CX, Munich, Germany.** May 2017 – present
+**Senior Software Engineer. SAP SE, Munich, Germany.** Mar 2023 – present
+* Contributed to the full software development life cycle of multiple backend microservices (**Java, Spring Boot, SAP Cloud Application Programming (CAP) Model, SAP HANA, SAP Business Technology Platform (BTP)**).
+* Projects: [SAP Master Data Orchestration](https://help.sap.com/docs/SAP_MASTER_DATA_INTEGRATION/8ce78b673ef04cc1bcfeb01c93ef7885/0bed505b149b4ec6af24bf503a45708b.html?version=CLOUD)
+
+
+**Senior Software Engineer. SAP Customer Experience, Munich, Germany.** May 2017 – Feb 2023
 * Contributed to the full software development life cycle of multiple backend microservices (**Java, Spring Boot, SQL databases, Kafka, RESTful APIs, Flink, Druid**).
 * Ensured compliance with the quality and security requirements of the organization across every microservice of the team (**WhiteSource/Mend, Fortify, SonarQube, CheckMarx**).
 * Contributed to the Continuous Integration and Continuous Delivery (CI/CD) pipeline to build and release multiple microservices and applications (**Jenkins, Docker, Kubernetes, AWS**).
 * Provided monitoring and on-call support of 10-15 microservices, following the approach *"you build it, you run it"* (**Kibana, Grafana, Splunk On-Call/VictorOps**).
 * Acted as part-time Scrum Coach rotating the role periodically inside the development team.
 * Obtained the certifications of **PSM-I (Professional Scrum Master)** and **ITIL4 Foundation** Certificate in IT Service Management (<a href="https://purl.org/beroca/certificates" target="_blank" rel="noopener noreferrer">https://purl.org/beroca/certificates</a>)
-* Projects: [SAP Upscale Commerce](https://help.sap.com/docs/SAP_UPSCALE_COMMERCE) (retired), [Context-Driven Services](https://help.sap.com/docs/CONTEXT-DRIVEN_SERVICES) / [Intelligent Selling Services](https://help.sap.com/docs/INTELLIGENT_SELLING_SERVICES) for SAP Commerce Cloud, [SAP Master Data Orchestration](https://help.sap.com/docs/SAP_MASTER_DATA_INTEGRATION/8ce78b673ef04cc1bcfeb01c93ef7885/0bed505b149b4ec6af24bf503a45708b.html?version=CLOUD)
+* Projects: [SAP Upscale Commerce](https://help.sap.com/docs/SAP_UPSCALE_COMMERCE) (retired), [Context-Driven Services](https://help.sap.com/docs/CONTEXT-DRIVEN_SERVICES) / [Intelligent Selling Services](https://help.sap.com/docs/INTELLIGENT_SELLING_SERVICES) for SAP Commerce Cloud
 
 
 **Information Technology Engineer. PAYBACK GmbH, Munich, Germany.** Feb 2015 – Dec 2016
