@@ -15,7 +15,7 @@ Nationality:  Spain</pre>
 
 **WORK EXPERIENCE**\
 **Senior Software Engineer. SAP SE, Munich, Germany.** Mar 2023 – present
-* Contributed to the full software development life cycle of multiple backend microservices (**Java, Spring Boot, SAP Cloud Application Programming (CAP) Model, SAP HANA, SAP Business Technology Platform (BTP)**).
+* Contributed to the full software development life cycle of multiple backend microservices (**Java, Spring Boot, [SAP Cloud Application Programming Model](https://help.sap.com/docs/SAP_CAP), SAP HANA, [SAP Business Technology Platform](https://help.sap.com/docs/btp?version=Cloud), Cloud Foundry**).
 * Projects: [SAP Master Data Orchestration](https://help.sap.com/docs/SAP_MASTER_DATA_INTEGRATION/8ce78b673ef04cc1bcfeb01c93ef7885/0bed505b149b4ec6af24bf503a45708b.html?version=CLOUD)
 
 
@@ -26,7 +26,7 @@ Nationality:  Spain</pre>
 * Provided monitoring and on-call support of 10-15 microservices, following the approach *"you build it, you run it"* (**Kibana, Grafana, Splunk On-Call/VictorOps**).
 * Acted as part-time Scrum Coach rotating the role periodically inside the development team.
 * Obtained the certifications of **PSM-I (Professional Scrum Master)** and **ITIL4 Foundation** Certificate in IT Service Management (<a href="https://purl.org/beroca/certificates" target="_blank" rel="noopener noreferrer">https://purl.org/beroca/certificates</a>)
-* Projects: [SAP Upscale Commerce](https://help.sap.com/docs/SAP_UPSCALE_COMMERCE) (retired), [Context-Driven Services](https://help.sap.com/docs/CONTEXT-DRIVEN_SERVICES) / [Intelligent Selling Services](https://help.sap.com/docs/INTELLIGENT_SELLING_SERVICES) for SAP Commerce Cloud
+* Projects: [SAP Upscale Commerce](https://help.sap.com/docs/SAP_UPSCALE_COMMERCE) (retired), [Context-Driven Services](https://help.sap.com/docs/CONTEXT-DRIVEN_SERVICES) / [Intelligent Selling Services](https://help.sap.com/docs/INTELLIGENT_SELLING_SERVICES) for [SAP Commerce Cloud](https://help.sap.com/docs/COMMERCE?version=CLOUD)
 
 
 **Information Technology Engineer. PAYBACK GmbH, Munich, Germany.** Feb 2015 – Dec 2016
